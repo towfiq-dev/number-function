@@ -3,3 +3,4 @@ function evenstring(str){
   console.log(size)
 }
 evenstring("Dhaka")
+evenstring("chittagong")
